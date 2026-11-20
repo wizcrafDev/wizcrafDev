@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Chukwuma 👋
 
-I'm a JavaScript developer focused on building web applications across the frontend and backend. I enjoy learning how the pieces of a web application fit together—from creating user interfaces to building APIs and working with databases.
+I'm a JavaScript developer focused on building web applications across the frontend and backend. I enjoy learning how the pieces of a web application fit together, from creating user interfaces to building APIs and working with databases.
 
 ## What I'm working with
 
