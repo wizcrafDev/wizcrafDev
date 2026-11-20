@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nicholas Chukwuma 👋
 
-<!--
-**wizcrafDev/wizcrafDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a JavaScript developer focused on building web applications across the frontend and backend. I enjoy learning how the pieces of a web application fit together—from creating user interfaces to building APIs and working with databases.
 
-Here are some ideas to get you started:
+## What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** JavaScript, React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, Prisma
+- **Tools:** Git, GitHub, Docker, Swagger
+
+## Projects
+
+- **[Computer Gadgets Store](https://github.com/wizcrafDev/computer-gadgets-store)** — Backend project using Express, Prisma and API/database tooling.
+- **[Movie Watchlist App](https://github.com/wizcrafDev/WatchList-APP)** — React application using React Query, Axios and React Router.
+- **[Food Delivery](https://github.com/wizcrafDev/Food-Delivery)** — React application with page routing and food-menu components.
+
+## Currently improving
+
+- Building and structuring REST APIs
+- Connecting frontend applications to backend services
+- Working with relational databases and Prisma
+- Writing cleaner, maintainable JavaScript
+
+## Let's connect
+
+- **GitHub:** [@wizcrafDev](https://github.com/wizcrafDev)
+
+---
+
+*Always learning, building and improving one project at a time.*
